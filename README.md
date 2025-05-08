@@ -4,8 +4,8 @@
 - Tenha o docker instalado
 `caso não tenha, instalar`
 
-- Rode o comando
-`make docker-up`
+- Buildar e rodar
+`make docker-build\nmake docker-up`
 
 - Entre no localhost
 `localhost:8000/docs`
